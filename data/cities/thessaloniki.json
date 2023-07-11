@@ -1,0 +1,10 @@
+{
+    "name": "Saloniki",
+    "price": 120,
+
+    "parking-price": {
+        "undeveloped": 10,
+        "house": [40, 120, 360, 640],
+        "hotel": 900
+    }
+}

@@ -1,0 +1,23 @@
+[
+    {
+        "country-name": "Grecja",
+        "color": "#ffff0b",
+        "index": 0,
+        "house-price": 100,
+        "cities": ["tessaloniki", "athens"]
+    },
+    {
+        "country-name": "Włochy",
+        "color": "#de180f",
+        "index": 1,
+        "house-price": 100,
+        "cities": ["naples", "milan", "rome"]  
+    },
+    {
+        "country-name": "Benelux",
+        "color": "#2a7926",
+        "index": 14,
+        "house-price": 300,
+        "cities": ["rotterdam", "brussels", "amsterdam"]  
+    }
+]

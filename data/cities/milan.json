@@ -1,0 +1,10 @@
+{
+    "name": "Mediolan",
+    "price": 200,
+
+    "parking-price": {
+        "undeveloped": 15,
+        "house": [60, 180, 540, 800],
+        "hotel": 1100
+    }
+}

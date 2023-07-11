@@ -1,0 +1,10 @@
+{
+    "name": "Rzym",
+    "price": 240,
+
+    "parking-price": {
+        "undeveloped": 20,
+        "house": [80, 200, 600, 900],
+        "hotel": 1200
+    }
+}
