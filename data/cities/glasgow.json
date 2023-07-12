@@ -1,0 +1,10 @@
+{
+    "name": "Glasgow",
+    "price": 360,
+
+    "parking-price": {
+        "undeveloped": 30,
+        "house": [140, 400, 1100, 1500],
+        "hotel": 1900
+    }
+}

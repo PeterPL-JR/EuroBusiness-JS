@@ -1,0 +1,10 @@
+{
+    "name": "Innsbruck",
+    "price": 700,
+
+    "parking-price": {
+        "undeveloped": 70,
+        "house": [350, 1000, 2200, 2600],
+        "hotel": 3000
+    }
+}

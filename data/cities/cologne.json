@@ -1,0 +1,10 @@
+{
+    "name": "Kolonia",
+    "price": 600,
+
+    "parking-price": {
+        "undeveloped": 55,
+        "house": [260, 780, 1900, 2200],
+        "hotel": 2550
+    }
+}

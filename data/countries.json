@@ -2,6 +2,7 @@
     {
         "country-name": "Grecja",
         "color": "#ffff0b",
+        "second-color": "black",
         "index": 0,
         "house-price": 100,
         "cities": ["tessaloniki", "athens"]
@@ -9,15 +10,57 @@
     {
         "country-name": "Włochy",
         "color": "#de180f",
+        "second-color": "white",
         "index": 1,
         "house-price": 100,
         "cities": ["naples", "milan", "rome"]  
     },
     {
+        "country-name": "Hiszpania",
+        "color": "#0e70ef",
+        "second-color": "white",
+        "index": 2,
+        "house-price": 200,
+        "cities": ["barcelona", "seville", "madrid"]  
+    },
+    {
+        "country-name": "Anglia",
+        "color": "#fe8402",
+        "second-color": "black",
+        "index": 3,
+        "house-price": 200,
+        "cities": ["liverpool", "glasgow", "london"]  
+    },
+    {
         "country-name": "Benelux",
         "color": "#2a7926",
-        "index": 14,
+        "second-color": "white",
+        "index": 4,
         "house-price": 300,
         "cities": ["rotterdam", "brussels", "amsterdam"]  
+    },
+    {
+        "country-name": "Szwecja",
+        "color": "#321555",
+        "second-color": "white",
+        "index": 5,
+        "house-price": 300,
+        "cities": ["malmo", "gothenburg", "stockholm"]  
+    },
+    {
+        "country-name": "RFN",
+        "color": "#8a5100",
+        "second-color": "white",
+        "index": 6,
+        "house-price": 400,
+        "cities": ["frankfurt", "cologne", "bonn"]  
+    },
+    {
+        "country-name": "Austria",
+        "color": "#000000",
+        "second-color": "white",
+        "index": 7,
+        "house-price": 400,
+        "cities": ["innsbruck", "vienna"]  
     }
 ]

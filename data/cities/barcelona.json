@@ -1,0 +1,10 @@
+{
+    "name": "Barcelona",
+    "price": 280,
+
+    "parking-price": {
+        "undeveloped": 20,
+        "house": [100, 300, 900, 1250],
+        "hotel": 1500
+    }
+}

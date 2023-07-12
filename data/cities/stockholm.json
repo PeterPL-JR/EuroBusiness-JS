@@ -1,0 +1,10 @@
+{
+    "name": "Sztokholm",
+    "price": 560,
+
+    "parking-price": {
+        "undeveloped": 50,
+        "house": [240, 720, 1700, 2050],
+        "hotel": 2400
+    }
+}

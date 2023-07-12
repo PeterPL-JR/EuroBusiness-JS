@@ -1,0 +1,10 @@
+{
+    "name": "Wiedeń",
+    "price": 800,
+
+    "parking-price": {
+        "undeveloped": 100,
+        "house": [400, 1200, 2800, 3400],
+        "hotel": 4000
+    }
+}

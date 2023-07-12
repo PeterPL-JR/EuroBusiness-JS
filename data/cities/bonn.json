@@ -1,0 +1,10 @@
+{
+    "name": "Bonn",
+    "price": 640,
+
+    "parking-price": {
+        "undeveloped": 60,
+        "house": [300, 900, 2000, 2400],
+        "hotel": 2800
+    }
+}
